@@ -1,0 +1,48 @@
+@charset "UTF-8";
+
+#terra_brwn_settings_container {
+	float: left;
+	width: 38%;
+}
+
+#terra_brwn_location_field_container {
+	float: left;
+	width: 100%;
+}
+
+.terra_brwn_location_field {
+	width: 62%;
+}
+
+.terra_brwn_search_button {
+	margin: 0 0.5em;
+}
+
+.terra_brwn_plus_minus_button {
+	width: 1.8em;
+}
+
+#dummy {
+	margin-top: 1em;
+	float: left;
+	width: 100%;
+}
+
+#terra_brwn_google_maps_container {
+	float: right;
+	width: 60%;
+	height: 400px;
+}
+
+#map-canvas {
+	height: 100%;
+	margin: 0px;
+	padding: 0px;
+}
+
+#terra_brwn_map {
+	width: 100%;
+	height: 100px;
+	background-color: #cccccc;
+	padding: 1em;
+}
