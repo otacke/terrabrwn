@@ -15,4 +15,4 @@ TerraBrwn is **to become** a WordPress PlugIn that allows you to attach multiple
 *If you have any suggestions, feel free to let me know!*
 
 ## Screenshot
-![backend of terrabrwn](https://www.github.com/otacke/terrabrwn/terrabrwn_example_backend.png "backend of terrabrwn")
+![backend of terrabrwn](https://github.com/otacke/terrabrwn/blob/master/terrabrwn_example_backend.png "backend of terrabrwn")
