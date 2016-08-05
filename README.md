@@ -16,3 +16,6 @@ TerraBrwn is **to become** a WordPress PlugIn that allows you to attach multiple
 
 ## Screenshot
 ![backend of terrabrwn](https://github.com/otacke/terrabrwn/blob/master/terrabrwn_example_backend.png "backend of terrabrwn")
+
+## License
+I like the [WTFPL](http://www.wtfpl.net/about/), so "Do What The Fuck You Want To"!
