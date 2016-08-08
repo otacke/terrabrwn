@@ -10,7 +10,7 @@ TerraBrwn is **to become** a WordPress PlugIn that allows you to attach multiple
  - filter posts, e. g. by category or age (open)
 
 ## More information
-"Why", you ask? I was asked if I could pull this off by some friends who need exactly that functionality, and they said there was nothing appropriate available for WordPress :-) TerraBrwm is working for them, but the code is really a mess right now. My coding skills are pretty limited, but I hope to improve them with this project. As I am writing these lines, there's a lot to do: refactoring, make settings optional instead of hard coding them, refactoring again, add missing features, fine tuning, probably more refactoring, etc...
+"Why", you ask? I was asked if I could pull this off by some friends who need exactly that functionality, and they said there was nothing appropriate available for WordPress :-) TerraBrwn is working for them, but the code is really a mess right now. My coding skills are pretty limited, but I hope to improve them with this project. As I am writing these lines, there's a lot to do: refactoring, make settings optional instead of hard coding them, refactoring again, add missing features, fine tuning, probably more refactoring, etc...
 
 *If you have any suggestions, feel free to let me know!*
 
