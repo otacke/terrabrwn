@@ -1,6 +1,7 @@
 /**
  * This script is used for displaying a map with article markers
  *
+ * TODO: massive code cleaning: ===, tabs=4, etc.
  * TODO: refactoring
  * TODO: implement individual marker designs
  */
