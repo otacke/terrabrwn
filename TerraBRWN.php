@@ -15,7 +15,7 @@
  * TODO: refactoring (!!!)
  * TODO: Object Orientation (maybe)
  * TODO: improve individual markers
- * TODO: Localization (maybe)
+ * TODO: Localization
  */
 
 // as suggested by the Wordpress community
