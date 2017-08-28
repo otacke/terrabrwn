@@ -1,6 +1,6 @@
 # TerraBrwn
 
-##What's this?
+## What's this?
 TerraBrwn **could have become** a WordPress PlugIn that allows you to attach multiple geolocations to posts. Those locations will be presented as markers on a GoogleMap that could e.g. be embedded on the front page. This map will have different features:
 
  - link markers to posts (done)
